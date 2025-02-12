@@ -10,7 +10,7 @@ Welcome to the WEB course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 |  🆘 | Clarisse Fleurimont                                                                                        |
 |  📅 | Friday                                                                                                     |
 |  ⏰ | G01 13:15-15:40 / G01 15:45-18:05                                                                          |
-|  🌐 | [https://github.com/web-classroom/heig-vd-web-course-olr](https://github.com/web-classroom/heig-vd-web-course-olr) |
+|  🌐 | [https://web-classroom.github.io/heig-vd-web-course-olr/](https://web-classroom.github.io/heig-vd-web-course-olr/) |
 
 |  ⛳ | WEB-B                                                                                                      |
 |:--:|------------------------------------------------------------------------------------------------------------|
@@ -26,4 +26,4 @@ Welcome to the WEB course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 |  🆘 | Stefan Teofanovic                                                      |
 |  📅 | Wednesday                                                                                          |
 |  ⏰ | A05a 13:15-15:40 / A05a 15:45-18:05                                                                          |
-|  🌐 | [https://github.com/web-classroom/heig-vd-web-course-otr](https://github.com/web-classroom/heig-vd-web-course-otr) |
+|  🌐 | [https://web-classroom.github.io/heig-vd-web-course-otr/](https://web-classroom.github.io/heig-vd-web-course-otr/) |
