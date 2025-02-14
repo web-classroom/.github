@@ -10,7 +10,7 @@ Welcome to the WEB course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 |  🆘 | Clarisse Fleurimont                                                                                        |
 |  📅 | Friday                                                                                                     |
 |  ⏰ | G01 13:15-15:40 / G01 15:45-18:05                                                                          |
-|  🌐 | [https://web-classroom.github.io/heig-vd-web-course-olr/](https://web-classroom.github.io/heig-vd-web-course-olr/) |
+|  🌐 | [https://web-classroom.github.io/web-course-olr/](https://web-classroom.github.io/web-course-olr/) |
 
 |  ⛳ | WEB-B                                                                                                      |
 |:--:|------------------------------------------------------------------------------------------------------------|
