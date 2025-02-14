@@ -26,4 +26,4 @@ Welcome to the WEB course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 |  🆘 | Stefan Teofanovic                                                      |
 |  📅 | Wednesday                                                                                          |
 |  ⏰ | A05a 13:15-15:40 / A05a 15:45-18:05                                                                          |
-|  🌐 | [https://web-classroom.github.io/heig-vd-web-course-otr/](https://web-classroom.github.io/heig-vd-web-course-otr/) |
+|  🌐 | [https://web-classroom.github.io/web-course-otr/](https://web-classroom.github.io/web-course-otr/) |
